@@ -2,6 +2,12 @@
 
 A lightweight desktop utility for Windows built with Tkinter and psutil to monitor system health in real time.
 
+## Demo
+
+![PC Health Manager Demo](Demo/Demo.gif)
+
+![PC Health Manager Screenshot](Demo/Capture.JPG)
+
 ## Features
 
 - Live CPU, RAM, and disk usage dashboard
